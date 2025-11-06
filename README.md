@@ -1,5 +1,4 @@
 # CubeCraft2
-Another Minecraft clone also the rebuild version of [CubeCraft](https://github.com/AdamYuan/CubeCraft)
 
 ## Installation
 ### Linux (Unix)
